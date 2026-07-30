@@ -26,7 +26,7 @@ The project was developed using an open-source EDA software, **KiCad** version *
 ![3D Model Top View](https://github.com/aniketvats325/Design-of-a-Smart-Band-for-Pulse-Wave-Arrhythmia-Analysis/blob/b58e1c9e2bd44b157b87f28b264c3c7b443cf839/Project%20Smart%20Band%20Design/Images/Top%20View%203D%20Model.png)
 
 ## 3D Model Rear View
-![3D Model Rear View]()
+![3D Model Rear View](https://github.com/aniketvats325/Design-of-a-Smart-Band-for-Pulse-Wave-Arrhythmia-Analysis/blob/a3f84138f75faf042121d8191fd2bcf8eac5e4d4/Project%20Smart%20Band%20Design/Images/Rear%20View%203D%20Model.png)
 
 ## Board Dimensions
 
