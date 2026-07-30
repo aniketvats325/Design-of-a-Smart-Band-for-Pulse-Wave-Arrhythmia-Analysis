@@ -32,5 +32,5 @@ The project was developed using an open-source EDA software, **KiCad** version *
 
 | Parameter | Value    |
 |-----------|----------|
-| Width     | 85.81 mm |
-| Height    | 62.62 mm |
+| Width     | 36 mm    |
+| Height    | 24 mm    |
