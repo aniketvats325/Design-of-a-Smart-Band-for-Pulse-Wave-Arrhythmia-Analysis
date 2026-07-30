@@ -21,9 +21,11 @@ The project was developed using an open-source EDA software, **KiCad** version *
 
 ![PCB Layout with Ground Pouring](https://github.com/aniketvats325/Design-of-a-Smart-Band-for-Pulse-Wave-Arrhythmia-Analysis/blob/664edae112b97c8bd4f3ebf7ecef26d707ac4530/Project%20Smart%20Band%20Design/Images/PCB%20Layout.png)
 
-## 3D Model
+## 3D Model Top View
 
-![3D Model](https://raw.githubusercontent.com/aniketvats325/HDMI-Switcher-Design/c54c293d5cd29b73bb1cfbb8fcd33d0a225731ce/Project%20HDMI%20Switcher/Images/3D%20Model.png)
+![3D Model](https://github.com/aniketvats325/Design-of-a-Smart-Band-for-Pulse-Wave-Arrhythmia-Analysis/blob/b58e1c9e2bd44b157b87f28b264c3c7b443cf839/Project%20Smart%20Band%20Design/Images/Top%20View%203D%20Model.png)
+
+## 3D Model Rear View
 
 ## Board Dimensions
 
