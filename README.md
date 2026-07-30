@@ -14,15 +14,12 @@ The project was developed using an open-source EDA software, **KiCad** version *
 `0402_1005Metric_Pad1.08x0.95mm_HandSolder`
 
 ## Root Schematic
-![Root Schematic](https://github.com/aniketvats325/Design-of-a-Smart-Band-for-Pulse-Wave-Arrhythmia-Analysis/blob/639fa1fe5b59136227b7611ba7f9373cb6c37e6d/Project%20Smart%20Band%20Design/Images/Root_Schematic.png))
+![Root Schematic](https://github.com/aniketvats325/Design-of-a-Smart-Band-for-Pulse-Wave-Arrhythmia-Analysis/blob/639fa1fe5b59136227b7611ba7f9373cb6c37e6d/Project%20Smart%20Band%20Design/Images/Root_Schematic.png)
 
-
-## PCB Layout
-![PCB Layout](https://raw.githubusercontent.com/aniketvats325/HDMI-Switcher-Design/cb6e8c100e9de31e550a867d7b3348dbeacd80ad/Project%20HDMI%20Switcher/Images/Layout.png)
 
 ## PCB Layout with Ground Pouring
 
-![PCB Layout with Ground Pouring](https://raw.githubusercontent.com/aniketvats325/HDMI-Switcher-Design/5ec6e54b50561c695181b2a9db03f006d9142f4e/Project%20HDMI%20Switcher/Images/Layout%20with%20ground%20pouring.png)
+![PCB Layout with Ground Pouring](https://github.com/aniketvats325/Design-of-a-Smart-Band-for-Pulse-Wave-Arrhythmia-Analysis/blob/664edae112b97c8bd4f3ebf7ecef26d707ac4530/Project%20Smart%20Band%20Design/Images/PCB%20Layout.png)
 
 ## 3D Model
 
